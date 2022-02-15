@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "walk": "nodemon walk.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "mineflayer": "^4.0.0",
+    "mineflayer-pathfinder": "^1.9.1",
     "nodemon": "^2.0.15"
   }
 }
