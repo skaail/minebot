@@ -12,6 +12,7 @@
   "dependencies": {
     "mineflayer": "^4.0.0",
     "mineflayer-pathfinder": "^1.9.1",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "prismarine-viewer": "^1.22.0"
   }
 }
