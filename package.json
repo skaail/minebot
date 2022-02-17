@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "walk": "nodemon walk.js"
+    "walk": "nodemon walk.js",
+    "path": "nodemon path.js"
   },
   "author": "",
   "license": "ISC",
